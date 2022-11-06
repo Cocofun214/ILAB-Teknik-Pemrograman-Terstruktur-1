@@ -1,8 +1,7 @@
 # ILAB-Teknik-Pemrograman-Terstruktur-1
-Semangat
+# Semangat
 
 Topik 2
-
 [2.1]
 
 NO [1]
